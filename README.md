@@ -6,12 +6,12 @@
 
 ### 拆帧界面
 
-![XFY Reframer 拆帧界面]<img width="1421" height="929" alt="屏幕截图 2026-02-20 001313" src="https://github.com/user-attachments/assets/cdabbce5-5b29-435d-a88b-306f6eba1d6f" />
+<img width="1421" height="929" alt="屏幕截图 2026-02-20 001313" src="https://github.com/user-attachments/assets/cdabbce5-5b29-435d-a88b-306f6eba1d6f" />
 
 
 ### 合成界面
 
-![XFY Reframer 合成界面]<img width="1420" height="933" alt="屏幕截图 2026-02-20 001339" src="https://github.com/user-attachments/assets/8f730e8d-b8ff-47ae-b193-d57ebc6d2a5d" />
+<img width="1420" height="933" alt="屏幕截图 2026-02-20 001339" src="https://github.com/user-attachments/assets/8f730e8d-b8ff-47ae-b193-d57ebc6d2a5d" />
 
 
 ## 创作目的
