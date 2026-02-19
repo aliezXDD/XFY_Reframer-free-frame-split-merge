@@ -4,7 +4,13 @@
 
 ## 软件截图
 
-![XFY Reframer 运行界面](docs/screenshot-main.png)
+### 拆帧界面
+
+![XFY Reframer 拆帧界面](docs/screenshot-extract.png)
+
+### 合成界面
+
+![XFY Reframer 合成界面](docs/screenshot-combine.png)
 
 ## 创作目的
 
